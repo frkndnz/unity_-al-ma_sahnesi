@@ -8,3 +8,8 @@
   
 
 <img src="https://media.giphy.com/media/kHbTNqKSlnY8YnDv14/giphy.gif" width="600"/>
+
+## Anismasyonlar 
+   [mixamo](https://www.mixamo.com/)
+   
+
