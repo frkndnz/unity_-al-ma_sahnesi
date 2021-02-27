@@ -15,6 +15,6 @@
 ## Bezier Eğrisi
    Npc karakterin hedefe bir yay üzerinde eğimli bir şekilde gitmesi için gerekli matematiksel formül
    -> [bezier](https://tr.wikipedia.org/wiki/B%C3%A9zier_e%C4%9Frisi)
-   ![beziergif](https://tr.wikipedia.org/wiki/B%C3%A9zier_e%C4%9Frisi#/media/Dosya:B%C3%A9zier_3_big.gif)
+ ![beziergif](https://tr.wikipedia.org/wiki/B%C3%A9zier_e%C4%9Frisi#/media/Dosya:B%C3%A9zier_3_big.gif)
    
 
