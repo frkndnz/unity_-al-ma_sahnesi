@@ -5,6 +5,6 @@
 + Npc karakterin hedefine ulaşırken önüne çıkan engelleri aşması ve masadan bir objeyi eline alması
 + Gerekli animasyonlar
 
-##  ![gif](https://media.giphy.com/media/kHbTNqKSlnY8YnDv14/giphy.gif)
+  
 
-<img src="https://media.giphy.com/media/kHbTNqKSlnY8YnDv14/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/kHbTNqKSlnY8YnDv14/giphy.gif" width="800"/>
